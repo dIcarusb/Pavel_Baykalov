@@ -10,7 +10,7 @@ I am a researcher working at the intersection of **machine learning**, **compute
 
 | Project | Description | Tech stack |
 |---------|-------------|------------|
-| **[SOC prediction pipeline]((https://github.com/dIcarusb/Subterra-probe-PHENET-project))** | End‑to‑end ML for soil organic carbon from Vis‑NIR spectra. SID outlier removal, EPO moisture correction, NGBoost with uncertainty intervals. | Python, LightGBM, NGBoost, scikit-learn |
+| **[SOC prediction pipeline](https://github.com/dIcarusb/Subterra-probe-PHENET-project)** | End‑to‑end ML for soil organic carbon from Vis‑NIR spectra. SID outlier removal, EPO moisture correction, NGBoost with uncertainty intervals. | Python, LightGBM, NGBoost, scikit-learn |
 | **[Subterra probe R pipeline]((https://github.com/dIcarusb/Subterra-probe-PHENET-project))** | H5 data processing, spectral preprocessing, feature extraction for in‑situ soil sensing. | R, hdf5r, signal, tidyverse |
 | **[Spectral labeling tools]([link](https://github.com/dIcarusb/Labelling-tools-for-IR-data))** | Custom PyQt5 tools for annotating VISNIR + SWIR hyperspectral data. Root‑soil, grass‑herb, live‑dead discrimination. | Python, PyQt5, OpenCV |
 | **[Root segmentation (RS_SAG)]([link](https://github.com/dIcarusb/Root-Segmentation-in-SubArctic-Grasslands-RS_SAG))** | U‑Net for root segmentation in subarctic grasslands (BARTZ system). | Python, PyTorch, OpenCV |
