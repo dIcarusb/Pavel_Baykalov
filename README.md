@@ -2,8 +2,6 @@
 
 **Postdoctoral ML Researcher** | Computer Vision & Plant Phenotyping | Spectral Analysis | Bioinformatics
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=dIcarusb&label=Visitors&countColor=%23263759&labelStyle=upper)
-
 I am a researcher working at the intersection of **machine learning**, **computer vision**, and **plant phenotyping / soil science**.
 
 ## 📂 Featured repositories
@@ -17,3 +15,7 @@ I am a researcher working at the intersection of **machine learning**, **compute
 | **[Bulk RNA‑seq analysis](https://github.com/dIcarusb/RNA-seq-Analysis-of-GSE310456)** | Reproducible differential expression analysis of GSE310456 (NZO mice). Adipose tissue microRNAs in type 2 diabetes. edgeR + limma consensus, GO/KEGG enrichment. | R, edgeR, limma, GEOquery, ggplot2 |
 | **[Satellite tree segmentation](https://github.com/dIcarusb/Omdena-project-satellite-images-trees-detection)** | Deep Residual U‑Net for wildfire prevention (Omdena × Spacept). Team achieved 95% accuracy. | Python, Keras, TensorFlow |
 | **[WBC segmentation](https://github.com/dIcarusb/Master_project)** | Comparison of U‑Net, SegNet, DeconvNet for leukocyte segmentation. Master's thesis. | Python, Keras, TensorFlow |
+
+
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=dIcarusb&label=Visitors&countColor=%23263759&labelStyle=upper)
