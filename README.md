@@ -17,5 +17,10 @@ I am a researcher working at the intersection of **machine learning**, **compute
 | **[WBC segmentation](https://github.com/dIcarusb/Master_project)** | Comparison of U‑Net, SegNet, DeconvNet for leukocyte segmentation. Master's thesis. | Python, Keras, TensorFlow |
 
 
+<h3>My GitHub contributions summary</h3>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dIcarusb&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dIcarusb&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=dIcarusb&label=Visitors&countColor=%23263759&labelStyle=upper)
