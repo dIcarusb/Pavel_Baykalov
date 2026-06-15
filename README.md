@@ -1,8 +1,26 @@
+<div align="center">
+  
 # Dr. Pavel Baykalov
 
 **Postdoctoral ML Researcher** | Computer Vision & Plant Phenotyping | Spectral Analysis | Bioinformatics
 
 I am a researcher working at the intersection of **machine learning**, **computer vision**, and **plant phenotyping / soil science**.
+
+## 🛠 Tech Stack
+
+<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
+<img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img alt="Keras" src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+<img alt="scikit-learn" src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img alt="pandas" src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img alt="Plotly" src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+<img alt="Qt" src="https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white" />
+<img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+
+</div>
 
 ## 📂 Featured repositories
 
@@ -17,10 +35,6 @@ I am a researcher working at the intersection of **machine learning**, **compute
 | **[WBC segmentation](https://github.com/dIcarusb/Master_project)** | Comparison of U‑Net, SegNet, DeconvNet for leukocyte segmentation. Master's thesis. | Python, Keras, TensorFlow |
 
 
-<h3>My GitHub contributions summary</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dIcarusb&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dIcarusb&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=dIcarusb&label=Visitors&countColor=%23263759&labelStyle=upper)
