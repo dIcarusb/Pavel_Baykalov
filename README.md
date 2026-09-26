@@ -19,6 +19,9 @@ I am a researcher working at the intersection of **machine learning**, **compute
 <img alt="Plotly" src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
 <img alt="Qt" src="https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white" />
 <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
+<img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
 
 </div>
 
@@ -26,6 +29,8 @@ I am a researcher working at the intersection of **machine learning**, **compute
 
 | Project | Description | Tech stack |
 |---------|-------------|------------|
+| **[Plant Root Analysis Tool](https://github.com/dIcarusb/Root_Analysis_Tool)** | Plant Root segmentation and calculations. | JavaScript, CSS, HTML |
+| **[Plant Root Label Tool](https://github.com/dIcarusb/Root_Label_Tool)** | Plant Root label tool for fast annotations; allows automatic segmentation. | HTML |
 | **[SOC prediction pipeline](https://github.com/dIcarusb/Subterra-probe-PHENET-project)** | End‑to‑end ML for soil organic carbon from Vis‑NIR spectra. SID outlier removal, EPO moisture correction, NGBoost with uncertainty intervals. | Python, LightGBM, NGBoost, scikit-learn |
 | **[Subterra probe R pipeline](https://github.com/dIcarusb/Subterra-probe-PHENET-project)** | H5 data processing, spectral preprocessing, feature extraction for in‑situ soil sensing. | R, hdf5r, signal, tidyverse |
 | **[Spectral labeling tools](https://github.com/dIcarusb/Labelling-tools-for-IR-data)** | Custom PyQt5 tools for annotating VISNIR + SWIR hyperspectral data. Root‑soil, grass‑herb, live‑dead discrimination. | Python, PyQt5, OpenCV |
